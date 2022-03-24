@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 5px;
+  box-sizing: 0;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    background-color: lightpink;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container-text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
